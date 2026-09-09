@@ -444,258 +444,460 @@
   ]
 }
 
+
 {
-  "name": "Rajshahi",
+  "bn": "রাজশাহী বিভাগ",
+  "en": "Rajshahi Division",
   "districts": [
     {
-      "name": "Bogura",
-      "sub_districts": [
-        "Adamdighi",
-        "Bogura Sadar",
-        "Dhunat",
-        "Dhupchanchia",
-        "Gabtali",
-        "Kahaloo",
-        "Nandigram",
-        "Sariakandi",
-        "Shajahanpur",
-        "Sherpur",
-        "Shibganj",
-        "Sonatala"
+      "bn": "বগুড়া জেলা",
+      "en": "Bogura District",
+      "upazilas": [
+        { "bn": "আদমদিঘী উপজেলা", "en": "Adamdighi Upazila" },
+        { "bn": "বগুড়া সদর উপজেলা", "en": "Bogura Sadar Upazila" },
+        { "bn": "ধুনট উপজেলা", "en": "Dhunat Upazila" },
+        { "bn": "দুপচাঁচিয়া উপজেলা", "en": "Dhupchanchia Upazila" },
+        { "bn": "গাবতলী উপজেলা", "en": "Gabtali Upazila" },
+        { "bn": "কাহালু উপজেলা", "en": "Kahaloo Upazila" },
+        { "bn": "নন্দীগ্রাম উপজেলা", "en": "Nandigram Upazila" },
+        { "bn": "সারিয়াকান্দি উপজেলা", "en": "Sariakandi Upazila" },
+        { "bn": "শাজাহানপুর উপজেলা", "en": "Shajahanpur Upazila" },
+        { "bn": "শেরপুর উপজেলা", "en": "Sherpur Upazila" },
+        { "bn": "শিবগঞ্জ উপজেলা", "en": "Shibganj Upazila" },
+        { "bn": "সোনাতলা উপজেলা", "en": "Sonatala Upazila" }
       ]
     },
     {
-      "name": "Joypurhat",
-      "sub_districts": [
-        "Akkelpur",
-        "Joypurhat Sadar",
-        "Kalai",
-        "Khetlal",
-        "Panchbibi"
+      "bn": "জয়পুরহাট জেলা",
+      "en": "Joypurhat District",
+      "upazilas": [
+        { "bn": "আক্কেলপুর উপজেলা", "en": "Akkelpur Upazila" },
+        { "bn": "জয়পুরহাট সদর উপজেলা", "en": "Joypurhat Sadar Upazila" },
+        { "bn": "কালাই উপজেলা", "en": "Kalai Upazila" },
+        { "bn": "ক্ষেতলাল উপজেলা", "en": "Khetlal Upazila" },
+        { "bn": "পাঁচবিবি উপজেলা", "en": "Panchbibi Upazila" }
       ]
     },
     {
-      "name": "Naogaon",
-      "sub_districts": [
-        "Atrai",
-        "Badalgachhi",
-        "Dhamoirhat",
-        "Manda",
-        "Mahadebpur",
-        "Naogaon Sadar",
-        "Niamatpur",
-        "Patnitala",
-        "Porsha",
-        "Raninagar",
-        "Sapahar"
+      "bn": "নওগাঁ জেলা",
+      "en": "Naogaon District",
+      "upazilas": [
+        { "bn": "আত্রাই উপজেলা", "en": "Atrai Upazila" },
+        { "bn": "বদলগাছী উপজেলা", "en": "Badalgachhi Upazila" },
+        { "bn": "ধামইরহাট উপজেলা", "en": "Dhamoirhat Upazila" },
+        { "bn": "মান্দা উপজেলা", "en": "Manda Upazila" },
+        { "bn": "মহাদেবপুর উপজেলা", "en": "Mahadebpur Upazila" },
+        { "bn": "নওগাঁ সদর উপজেলা", "en": "Naogaon Sadar Upazila" },
+        { "bn": "নিয়ামতপুর উপজেলা", "en": "Niamatpur Upazila" },
+        { "bn": "পত্নীতলা উপজেলা", "en": "Patnitala Upazila" },
+        { "bn": "পোরশা উপজেলা", "en": "Porsha Upazila" },
+        { "bn": "রাণীনগর উপজেলা", "en": "Raninagar Upazila" },
+        { "bn": "সাপাহার উপজেলা", "en": "Sapahar Upazila" }
       ]
     },
     {
-      "name": "Natore",
-      "sub_districts": [
-        "Bagatipara",
-        "Baraigram",
-        "Gurudaspur",
-        "Lalpur",
-        "Natore Sadar",
-        "Singra"
+      "bn": "নাটোর জেলা",
+      "en": "Natore District",
+      "upazilas": [
+        { "bn": "বাগাতিপাড়া উপজেলা", "en": "Bagatipara Upazila" },
+        { "bn": "বড়াইগ্রাম উপজেলা", "en": "Baraigram Upazila" },
+        { "bn": "গুরুদাসপুর উপজেলা", "en": "Gurudaspur Upazila" },
+        { "bn": "লালপুর উপজেলা", "en": "Lalpur Upazila" },
+        { "bn": "নাটোর সদর উপজেলা", "en": "Natore Sadar Upazila" },
+        { "bn": "সিংড়া উপজেলা", "en": "Singra Upazila" }
       ]
     },
     {
-      "name": "Chapainawabganj",
-      "sub_districts": [
-        "Bholahat",
-        "Gomastapur",
-        "Nachole",
-        "Chapainawabganj Sadar",
-        "Shibganj"
+      "bn": "চাঁপাইনবাবগঞ্জ জেলা",
+      "en": "Chapainawabganj District",
+      "upazilas": [
+        { "bn": "ভোলাহাট উপজেলা", "en": "Bholahat Upazila" },
+        { "bn": "গোমস্তাপুর উপজেলা", "en": "Gomastapur Upazila" },
+        { "bn": "নাচোল উপজেলা", "en": "Nachole Upazila" },
+        { "bn": "চাঁপাইনবাবগঞ্জ সদর উপজেলা", "en": "Chapainawabganj Sadar Upazila" },
+        { "bn": "শিবগঞ্জ উপজেলা", "en": "Shibganj Upazila" }
       ]
     },
     {
-      "name": "Pabna",
-      "sub_districts": [
-        "Atgharia",
-        "Bera",
-        "Bhangura",
-        "Chatmohar",
-        "Faridpur",
-        "Ishwardi",
-        "Pabna Sadar",
-        "Santhia",
-        "Sujanagar"
+      "bn": "পাবনা জেলা",
+      "en": "Pabna District",
+      "upazilas": [
+        { "bn": "আটঘরিয়া উপজেলা", "en": "Atgharia Upazila" },
+        { "bn": "বেড়া উপজেলা", "en": "Bera Upazila" },
+        { "bn": "ভাঙ্গুড়া উপজেলা", "en": "Bhangura Upazila" },
+        { "bn": "চাটমোহর উপজেলা", "en": "Chatmohar Upazila" },
+        { "bn": "ফরিদপুর উপজেলা", "en": "Faridpur Upazila" },
+        { "bn": "ঈশ্বরদী উপজেলা", "en": "Ishwardi Upazila" },
+        { "bn": "পাবনা সদর উপজেলা", "en": "Pabna Sadar Upazila" },
+        { "bn": "সাঁথিয়া উপজেলা", "en": "Santhia Upazila" },
+        { "bn": "সুজানগর উপজেলা", "en": "Sujanagar Upazila" }
       ]
     },
     {
-      "name": "Rajshahi",
-      "sub_districts": [
-        "Bagha",
-        "Bagmara",
-        "Charghat",
-        "Durgapur",
-        "Godagari",
-        "Mohanpur",
-        "Paba",
-        "Puthia",
-        "Tanore"
+      "bn": "রাজশাহী জেলা",
+      "en": "Rajshahi District",
+      "upazilas": [
+        { "bn": "বাঘা উপজেলা", "en": "Bagha Upazila" },
+        { "bn": "বাগমারা উপজেলা", "en": "Bagmara Upazila" },
+        { "bn": "চারঘাট উপজেলা", "en": "Charghat Upazila" },
+        { "bn": "দুর্গাপুর উপজেলা", "en": "Durgapur Upazila" },
+        { "bn": "গোদাগাড়ী উপজেলা", "en": "Godagari Upazila" },
+        { "bn": "মোহনপুর উপজেলা", "en": "Mohanpur Upazila" },
+        { "bn": "পবা উপজেলা", "en": "Paba Upazila" },
+        { "bn": "পুঠিয়া উপজেলা", "en": "Puthia Upazila" },
+        { "bn": "তানোর উপজেলা", "en": "Tanore Upazila" }
       ]
     },
     {
-      "name": "Sirajganj",
-      "sub_districts": [
-        "Belkuchi",
-        "Chauhali",
-        "Kamarkhanda",
-        "Kazipur",
-        "Raiganj",
-        "Shahjadpur",
-        "Sirajganj Sadar",
-        "Tarash",
-        "Ullapara"
+      "bn": "সিরাজগঞ্জ জেলা",
+      "en": "Sirajganj District",
+      "upazilas": [
+        { "bn": "বেলকুচি উপজেলা", "en": "Belkuchi Upazila" },
+        { "bn": "চৌহালী উপজেলা", "en": "Chauhali Upazila" },
+        { "bn": "কামারখন্দ উপজেলা", "en": "Kamarkhanda Upazila" },
+        { "bn": "কাজীপুর উপজেলা", "en": "Kazipur Upazila" },
+        { "bn": "রায়গঞ্জ উপজেলা", "en": "Raiganj Upazila" },
+        { "bn": "শাহজাদপুর উপজেলা", "en": "Shahjadpur Upazila" },
+        { "bn": "সিরাজগঞ্জ সদর উপজেলা", "en": "Sirajganj Sadar Upazila" },
+        { "bn": "তাড়াশ উপজেলা", "en": "Tarash Upazila" },
+        { "bn": "উল্লাপাড়া উপজেলা", "en": "Ullapara Upazila" }
+      ]
+    }
+  ]
+        }
+
+
+{
+  "bn": "সিলেট বিভাগ",
+  "en": "Sylhet Division",
+  "districts": [
+    {
+      "bn": "হবিগঞ্জ জেলা",
+      "en": "Habiganj District",
+      "upazilas": [
+        { "bn": "আজমিরীগঞ্জ উপজেলা", "en": "Ajmiriganj Upazila" },
+        { "bn": "বাহুবল উপজেলা", "en": "Bahubal Upazila" },
+        { "bn": "বানিয়াচং উপজেলা", "en": "Baniachong Upazila" },
+        { "bn": "চুনারুঘাট উপজেলা", "en": "Chunarughat Upazila" },
+        { "bn": "হবিগঞ্জ সদর উপজেলা", "en": "Habiganj Sadar Upazila" },
+        { "bn": "লাখাই উপজেলা", "en": "Lakhai Upazila" },
+        { "bn": "মাধবপুর উপজেলা", "en": "Madhabpur Upazila" },
+        { "bn": "নবীগঞ্জ উপজেলা", "en": "Nabiganj Upazila" },
+        { "bn": "শায়েস্তাগঞ্জ উপজেলা", "en": "Shayestaganj Upazila" }
+      ]
+    },
+    {
+      "bn": "মৌলভীবাজার জেলা",
+      "en": "Moulvibazar District",
+      "upazilas": [
+        { "bn": "বড়লেখা উপজেলা", "en": "Barlekha Upazila" },
+        { "bn": "জুড়ী উপজেলা", "en": "Juri Upazila" },
+        { "bn": "কমলগঞ্জ উপজেলা", "en": "Kamalganj Upazila" },
+        { "bn": "কুলাউড়া উপজেলা", "en": "Kulaura Upazila" },
+        { "bn": "মৌলভীবাজার সদর উপজেলা", "en": "Moulvibazar Sadar Upazila" },
+        { "bn": "রাজনগর উপজেলা", "en": "Rajnagar Upazila" },
+        { "bn": "শ্রীমঙ্গল উপজেলা", "en": "Sreemangal Upazila" }
+      ]
+    },
+    {
+      "bn": "সুনামগঞ্জ জেলা",
+      "en": "Sunamganj District",
+      "upazilas": [
+        { "bn": "বিশ্বম্ভরপুর উপজেলা", "en": "Bishwambharpur Upazila" },
+        { "bn": "ছাতক উপজেলা", "en": "Chhatak Upazila" },
+        { "bn": "দিরাই উপজেলা", "en": "Derai Upazila" },
+        { "bn": "ধর্মপাশা উপজেলা", "en": "Dharampasha Upazila" },
+        { "bn": "দোয়ারাবাজার উপজেলা", "en": "Dowarabazar Upazila" },
+        { "bn": "জগন্নাথপুর উপজেলা", "en": "Jagannathpur Upazila" },
+        { "bn": "জামালগঞ্জ উপজেলা", "en": "Jamalganj Upazila" },
+        { "bn": "শান্তিগঞ্জ উপজেলা", "en": "Shantiganj Upazila" },
+        { "bn": "শাল্লা উপজেলা", "en": "Shalla Upazila" },
+        { "bn": "সুনামগঞ্জ সদর উপজেলা", "en": "Sunamganj Sadar Upazila" },
+        { "bn": "তাহিরপুর উপজেলা", "en": "Tahirpur Upazila" },
+        { "bn": "মধ্যনগর উপজেলা", "en": "Madhyanagar Upazila" }
+      ]
+    },
+    {
+      "bn": "সিলেট জেলা",
+      "en": "Sylhet District",
+      "upazilas": [
+        { "bn": "বালাগঞ্জ উপজেলা", "en": "Balaganj Upazila" },
+        { "bn": "বিয়ানীবাজার উপজেলা", "en": "Beanibazar Upazila" },
+        { "bn": "বিশ্বনাথ উপজেলা", "en": "Bishwanath Upazila" },
+        { "bn": "কোম্পানীগঞ্জ উপজেলা", "en": "Companiganj Upazila" },
+        { "bn": "ফেঞ্চুগঞ্জ উপজেলা", "en": "Fenchuganj Upazila" },
+        { "bn": "গোলাপগঞ্জ উপজেলা", "en": "Golapganj Upazila" },
+        { "bn": "গোয়াইনঘাট উপজেলা", "en": "Gowainghat Upazila" },
+        { "bn": "জৈন্তাপুর উপজেলা", "en": "Jaintiapur Upazila" },
+        { "bn": "কানাইঘাট উপজেলা", "en": "Kanaighat Upazila" },
+        { "bn": "ওসমানীনগর উপজেলা", "en": "Osmani Nagar Upazila" },
+        { "bn": "সিলেট সদর উপজেলা", "en": "Sylhet Sadar Upazila" },
+        { "bn": "জকিগঞ্জ উপজেলা", "en": "Zakiganj Upazila" },
+        { "bn": "দক্ষিণ সুরমা উপজেলা", "en": "Dakshin Surma Upazila" }
       ]
     }
   ]
 }
 
 {
-  "name": "Sylhet",
+  "bn": "বরিশাল বিভাগ",
+  "en": "Barishal Division",
   "districts": [
     {
-      "name": "Habiganj",
-      "sub_districts": [
-        "Ajmiriganj",
-        "Bahubal",
-        "Baniachong",
-        "Chunarughat",
-        "Habiganj Sadar",
-        "Lakhai",
-        "Madhabpur",
-        "Nabiganj",
-        "Shayestaganj"
+      "bn": "বরগুনা জেলা",
+      "en": "Barguna District",
+      "upazilas": [
+        { "bn": "আমতলী উপজেলা", "en": "Amtali Upazila" },
+        { "bn": "বামনা উপজেলা", "en": "Bamna Upazila" },
+        { "bn": "বরগুনা সদর উপজেলা", "en": "Barguna Sadar Upazila" },
+        { "bn": "বেতাগী উপজেলা", "en": "Betagi Upazila" },
+        { "bn": "পাথরঘাটা উপজেলা", "en": "Patharghata Upazila" },
+        { "bn": "তালতলী উপজেলা", "en": "Taltali Upazila" }
       ]
     },
     {
-      "name": "Moulvibazar",
-      "sub_districts": [
-        "Barlekha",
-        "Juri",
-        "Kamalganj",
-        "Kulaura",
-        "Moulvibazar Sadar",
-        "Rajnagar",
-        "Sreemangal"
+      "bn": "বরিশাল জেলা",
+      "en": "Barishal District",
+      "upazilas": [
+        { "bn": "আগৈলঝাড়া উপজেলা", "en": "Agailjhara Upazila" },
+        { "bn": "বাবুগঞ্জ উপজেলা", "en": "Babuganj Upazila" },
+        { "bn": "বাকেরগঞ্জ উপজেলা", "en": "Bakerganj Upazila" },
+        { "bn": "বানারীপাড়া উপজেলা", "en": "Banaripara Upazila" },
+        { "bn": "গৌরনদী উপজেলা", "en": "Gournadi Upazila" },
+        { "bn": "হিজলা উপজেলা", "en": "Hizla Upazila" },
+        { "bn": "বরিশাল সদর উপজেলা", "en": "Barishal Sadar Upazila" },
+        { "bn": "মেহেন্দিগঞ্জ উপজেলা", "en": "Mehendiganj Upazila" },
+        { "bn": "মুলাদী উপজেলা", "en": "Muladi Upazila" },
+        { "bn": "উজিরপুর উপজেলা", "en": "Wazirpur Upazila" }
       ]
     },
     {
-      "name": "Sunamganj",
-      "sub_districts": [
-        "Bishwambharpur",
-        "Chhatak",
-        "Dakshin Sunamganj",
-        "Derai",
-        "Dharampasha",
-        "Dowarabazar",
-        "Jagannathpur",
-        "Jamalganj",
-        "Shantiganj",
-        "Shalla",
-        "Sunamganj Sadar",
-        "Tahirpur"
+      "bn": "ভোলা জেলা",
+      "en": "Bhola District",
+      "upazilas": [
+        { "bn": "ভোলা সদর উপজেলা", "en": "Bhola Sadar Upazila" },
+        { "bn": "বোরহানউদ্দিন উপজেলা", "en": "Borhanuddin Upazila" },
+        { "bn": "চরফ্যাশন উপজেলা", "en": "Char Fasson Upazila" },
+        { "bn": "দৌলতখান উপজেলা", "en": "Daulatkhan Upazila" },
+        { "bn": "লালমোহন উপজেলা", "en": "Lalmohan Upazila" },
+        { "bn": "মনপুরা উপজেলা", "en": "Manpura Upazila" },
+        { "bn": "তজুমদ্দিন উপজেলা", "en": "Tazumuddin Upazila" }
       ]
     },
     {
-      "name": "Sylhet",
-      "sub_districts": [
-        "Balaganj",
-        "Beanibazar",
-        "Bishwanath",
-        "Companiganj",
-        "Dakshin Surma",
-        "Fenchuganj",
-        "Golapganj",
-        "Gowainghat",
-        "Jaintiapur",
-        "Kanaighat",
-        "Osmani Nagar",
-        "Sylhet Sadar",
-        "Zakiganj"
+      "bn": "ঝালকাঠি জেলা",
+      "en": "Jhalokati District",
+      "upazilas": [
+        { "bn": "ঝালকাঠি সদর উপজেলা", "en": "Jhalokati Sadar Upazila" },
+        { "bn": "কাঁঠালিয়া উপজেলা", "en": "Kathalia Upazila" },
+        { "bn": "নলছিটি উপজেলা", "en": "Nalchity Upazila" },
+        { "bn": "রাজাপুর উপজেলা", "en": "Rajapur Upazila" }
+      ]
+    },
+    {
+      "bn": "পটুয়াখালী জেলা",
+      "en": "Patuakhali District",
+      "upazilas": [
+        { "bn": "বাউফল উপজেলা", "en": "Bauphal Upazila" },
+        { "bn": "দশমিনা উপজেলা", "en": "Dashmina Upazila" },
+        { "bn": "দুমকি উপজেলা", "en": "Dumki Upazila" },
+        { "bn": "কলাপাড়া উপজেলা", "en": "Kalapara Upazila" },
+        { "bn": "মির্জাগঞ্জ উপজেলা", "en": "Mirzaganj Upazila" },
+        { "bn": "পটুয়াখালী সদর উপজেলা", "en": "Patuakhali Sadar Upazila" },
+        { "bn": "রাঙ্গাবালী উপজেলা", "en": "Rangabali Upazila" },
+        { "bn": "গলাচিপা উপজেলা", "en": "Galachipa Upazila" }
+      ]
+    },
+    {
+      "bn": "পিরোজপুর জেলা",
+      "en": "Pirojpur District",
+      "upazilas": [
+        { "bn": "ভাণ্ডারিয়া উপজেলা", "en": "Bhandaria Upazila" },
+        { "bn": "কাউখালী উপজেলা", "en": "Kawkhali Upazila" },
+        { "bn": "মঠবাড়িয়া উপজেলা", "en": "Mathbaria Upazila" },
+        { "bn": "নাজিরপুর উপজেলা", "en": "Nazirpur Upazila" },
+        { "bn": "নেছারাবাদ উপজেলা", "en": "Nesarabad Upazila" },
+        { "bn": "পিরোজপুর সদর উপজেলা", "en": "Pirojpur Sadar Upazila" },
+        { "bn": "ইন্দুরকানী উপজেলা", "en": "Indurkani Upazila" }
       ]
     }
   ]
 }
 
 {
-  "name": "Barishal",
+  "bn": "রংপুর বিভাগ",
+  "en": "Rangpur Division",
   "districts": [
     {
-      "name": "Barguna",
-      "sub_districts": [
-        "Amtali",
-        "Bamna",
-        "Barguna Sadar",
-        "Betagi",
-        "Patharghata",
-        "Taltali"
+      "bn": "দিনাজপুর জেলা",
+      "en": "Dinajpur District",
+      "upazilas": [
+        { "bn": "বিরামপুর উপজেলা", "en": "Birampur Upazila" },
+        { "bn": "বীরগঞ্জ উপজেলা", "en": "Birganj Upazila" },
+        { "bn": "বিরল উপজেলা", "en": "Biral Upazila" },
+        { "bn": "বোচাগঞ্জ উপজেলা", "en": "Bochaganj Upazila" },
+        { "bn": "চিরিরবন্দর উপজেলা", "en": "Chirirbandar Upazila" },
+        { "bn": "দিনাজপুর সদর উপজেলা", "en": "Dinajpur Sadar Upazila" },
+        { "bn": "ফুলবাড়ী উপজেলা", "en": "Phulbari Upazila" },
+        { "bn": "ঘোড়াঘাট উপজেলা", "en": "Ghoraghat Upazila" },
+        { "bn": "হাকিমপুর উপজেলা", "en": "Hakimpur Upazila" },
+        { "bn": "কাহারোল উপজেলা", "en": "Kaharole Upazila" },
+        { "bn": "খানসামা উপজেলা", "en": "Khansama Upazila" },
+        { "bn": "নবাবগঞ্জ উপজেলা", "en": "Nawabganj Upazila" },
+        { "bn": "পার্বতীপুর উপজেলা", "en": "Parbatipur Upazila" }
       ]
     },
     {
-      "name": "Barishal",
-      "sub_districts": [
-        "Agailjhara",
-        "Babuganj",
-        "Bakerganj",
-        "Banaripara",
-        "Barishal Sadar",
-        "Gaurnadi",
-        "Hizla",
-        "Mehendiganj",
-        "Muladi",
-        "Wazirpur"
+      "bn": "গাইবান্ধা জেলা",
+      "en": "Gaibandha District",
+      "upazilas": [
+        { "bn": "ফুলছড়ি উপজেলা", "en": "Phulchhari Upazila" },
+        { "bn": "গাইবান্ধা সদর উপজেলা", "en": "Gaibandha Sadar Upazila" },
+        { "bn": "গোবিন্দগঞ্জ উপজেলা", "en": "Gobindaganj Upazila" },
+        { "bn": "পলাশবাড়ী উপজেলা", "en": "Palashbari Upazila" },
+        { "bn": "সাদুল্লাপুর উপজেলা", "en": "Sadullapur Upazila" },
+        { "bn": "সাঘাটা উপজেলা", "en": "Saghata Upazila" },
+        { "bn": "সুন্দরগঞ্জ উপজেলা", "en": "Sundarganj Upazila" }
       ]
     },
     {
-      "name": "Bhola",
-      "sub_districts": [
-        "Bhola Sadar",
-        "Borhanuddin",
-        "Char Fasson",
-        "Daulatkhan",
-        "Lalmohan",
-        "Manpura",
-        "Tazumuddin"
+      "bn": "কুড়িগ্রাম জেলা",
+      "en": "Kurigram District",
+      "upazilas": [
+        { "bn": "ভুরুঙ্গামারী উপজেলা", "en": "Bhurungamari Upazila" },
+        { "bn": "চর রাজিবপুর উপজেলা", "en": "Char Rajibpur Upazila" },
+        { "bn": "চিলমারী উপজেলা", "en": "Chilmari Upazila" },
+        { "bn": "কুড়িগ্রাম সদর উপজেলা", "en": "Kurigram Sadar Upazila" },
+        { "bn": "নাগেশ্বরী উপজেলা", "en": "Nageshwari Upazila" },
+        { "bn": "রাজারহাট উপজেলা", "en": "Rajarhat Upazila" },
+        { "bn": "রৌমারী উপজেলা", "en": "Raomari Upazila" },
+        { "bn": "উলিপুর উপজেলা", "en": "Ulipur Upazila" },
+        { "bn": "ফুলবাড়ী উপজেলা", "en": "Phulbari Upazila" }
       ]
     },
     {
-      "name": "Jhalokati",
-      "sub_districts": [
-        "Jhalokati Sadar",
-        "Kathalia",
-        "Nalchity",
-        "Rajapur"
+      "bn": "লালমনিরহাট জেলা",
+      "en": "Lalmonirhat District",
+      "upazilas": [
+        { "bn": "আদিতমারী উপজেলা", "en": "Aditmari Upazila" },
+        { "bn": "হাতীবান্ধা উপজেলা", "en": "Hatibandha Upazila" },
+        { "bn": "কালীগঞ্জ উপজেলা", "en": "Kaliganj Upazila" },
+        { "bn": "লালমনিরহাট সদর উপজেলা", "en": "Lalmonirhat Sadar Upazila" },
+        { "bn": "পাটগ্রাম উপজেলা", "en": "Patgram Upazila" }
       ]
     },
     {
-      "name": "Patuakhali",
-      "sub_districts": [
-        "Bauphal",
-        "Dashmina",
-        "Dumki",
-        "Galachipa",
-        "Kalapara",
-        "Mirzaganj",
-        "Patuakhali Sadar",
-        "Rangabali"
+      "bn": "নীলফামারী জেলা",
+      "en": "Nilphamari District",
+      "upazilas": [
+        { "bn": "ডোমার উপজেলা", "en": "Domar Upazila" },
+        { "bn": "ডিমলা উপজেলা", "en": "Dimla Upazila" },
+        { "bn": "জলঢাকা উপজেলা", "en": "Jaldhaka Upazila" },
+        { "bn": "কিশোরগঞ্জ উপজেলা", "en": "Kishoreganj Upazila" },
+        { "bn": "নীলফামারী সদর উপজেলা", "en": "Nilphamari Sadar Upazila" },
+        { "bn": "সৈয়দপুর উপজেলা", "en": "Saidpur Upazila" }
       ]
     },
     {
-      "name": "Pirojpur",
-      "sub_districts": [
-        "Bhandaria",
-        "Indurkani",
-        "Kawkhali",
-        "Mathbaria",
-        "Nazirpur",
-        "Nesarabad",
-        "Pirojpur Sadar"
+      "bn": "পঞ্চগড় জেলা",
+      "en": "Panchagarh District",
+      "upazilas": [
+        { "bn": "আটোয়ারী উপজেলা", "en": "Atwari Upazila" },
+        { "bn": "বোদা উপজেলা", "en": "Boda Upazila" },
+        { "bn": "দেবীগঞ্জ উপজেলা", "en": "Debiganj Upazila" },
+        { "bn": "পঞ্চগড় সদর উপজেলা", "en": "Panchagarh Sadar Upazila" },
+        { "bn": "তেঁতুলিয়া উপজেলা", "en": "Tetulia Upazila" }
+      ]
+    },
+    {
+      "bn": "রংপুর জেলা",
+      "en": "Rangpur District",
+      "upazilas": [
+        { "bn": "বদরগঞ্জ উপজেলা", "en": "Badarganj Upazila" },
+        { "bn": "গঙ্গাচড়া উপজেলা", "en": "Gangachara Upazila" },
+        { "bn": "কাউনিয়া উপজেলা", "en": "Kaunia Upazila" },
+        { "bn": "রংপুর সদর উপজেলা", "en": "Rangpur Sadar Upazila" },
+        { "bn": "মিঠাপুকুর উপজেলা", "en": "Mithapukur Upazila" },
+        { "bn": "পীরগঞ্জ উপজেলা", "en": "Pirganj Upazila" },
+        { "bn": "পীরগাছা উপজেলা", "en": "Pirgachha Upazila" },
+        { "bn": "তারাগঞ্জ উপজেলা", "en": "Taraganj Upazila" }
+      ]
+    },
+    {
+      "bn": "ঠাকুরগাঁও জেলা",
+      "en": "Thakurgaon District",
+      "upazilas": [
+        { "bn": "বালিয়াডাঙ্গী উপজেলা", "en": "Baliadangi Upazila" },
+        { "bn": "হরিপুর উপজেলা", "en": "Haripur Upazila" },
+        { "bn": "পীরগঞ্জ উপজেলা", "en": "Pirganj Upazila" },
+        { "bn": "রাণীশংকৈল উপজেলা", "en": "Ranisonkail Upazila" },
+        { "bn": "ঠাকুরগাঁও সদর উপজেলা", "en": "Thakurgaon Sadar Upazila" }
+      ]
+    }
+  ]
+}
+
+{
+  "bn": "ময়মনসিংহ বিভাগ",
+  "en": "Mymensingh Division",
+  "districts": [
+    {
+      "bn": "জামালপুর জেলা",
+      "en": "Jamalpur District",
+      "upazilas": [
+        { "bn": "বকশীগঞ্জ উপজেলা", "en": "Baksiganj Upazila" },
+        { "bn": "দেওয়ানগঞ্জ উপজেলা", "en": "Dewanganj Upazila" },
+        { "bn": "ইসলামপুর উপজেলা", "en": "Islampur Upazila" },
+        { "bn": "জামালপুর সদর উপজেলা", "en": "Jamalpur Sadar Upazila" },
+        { "bn": "মাদারগঞ্জ উপজেলা", "en": "Madarganj Upazila" },
+        { "bn": "মেলান্দহ উপজেলা", "en": "Melandaha Upazila" },
+        { "bn": "সরিষাবাড়ী উপজেলা", "en": "Sarishabari Upazila" }
+      ]
+    },
+    {
+      "bn": "ময়মনসিংহ জেলা",
+      "en": "Mymensingh District",
+      "upazilas": [
+        { "bn": "ভালুকা উপজেলা", "en": "Bhaluka Upazila" },
+        { "bn": "ধোবাউড়া উপজেলা", "en": "Dhobaura Upazila" },
+        { "bn": "ফুলবাড়ীয়া উপজেলা", "en": "Fulbaria Upazila" },
+        { "bn": "গফরগাঁও উপজেলা", "en": "Gaffargaon Upazila" },
+        { "bn": "গৌরীপুর উপজেলা", "en": "Gouripur Upazila" },
+        { "bn": "হালুয়াঘাট উপজেলা", "en": "Haluaghat Upazila" },
+        { "bn": "ঈশ্বরগঞ্জ উপজেলা", "en": "Ishwarganj Upazila" },
+        { "bn": "ময়মনসিংহ সদর উপজেলা", "en": "Mymensingh Sadar Upazila" },
+        { "bn": "মুক্তাগাছা উপজেলা", "en": "Muktagachha Upazila" },
+        { "bn": "নান্দাইল উপজেলা", "en": "Nandail Upazila" },
+        { "bn": "ফুলপুর উপজেলা", "en": "Phulpur Upazila" },
+        { "bn": "পাগলা উপজেলা", "en": "Pagla Upazila" },
+        { "bn": "তারাকান্দা উপজেলা", "en": "Tarakanda Upazila" }
+      ]
+    },
+    {
+      "bn": "নেত্রকোণা জেলা",
+      "en": "Netrokona District",
+      "upazilas": [
+        { "bn": "আটপাড়া উপজেলা", "en": "Atpara Upazila" },
+        { "bn": "বারহাট্টা উপজেলা", "en": "Barhatta Upazila" },
+        { "bn": "দুর্গাপুর উপজেলা", "en": "Durgapur Upazila" },
+        { "bn": "খালিয়াজুড়ী উপজেলা", "en": "Khaliajuri Upazila" },
+        { "bn": "কলমাকান্দা উপজেলা", "en": "Kalmakanda Upazila" },
+        { "bn": "কেন্দুয়া উপজেলা", "en": "Kendua Upazila" },
+        { "bn": "মদন উপজেলা", "en": "Madan Upazila" },
+        { "bn": "মোহনগঞ্জ উপজেলা", "en": "Mohanganj Upazila" },
+        { "bn": "নেত্রকোণা সদর উপজেলা", "en": "Netrokona Sadar Upazila" },
+        { "bn": "পূর্বধলা উপজেলা", "en": "Purbadhala Upazila" }
+      ]
+    },
+    {
+      "bn": "শেরপুর জেলা",
+      "en": "Sherpur District",
+      "upazilas": [
+        { "bn": "ঝিনাইগাতী উপজেলা", "en": "Jhenaigati Upazila" },
+        { "bn": "নকলা উপজেলা", "en": "Nakla Upazila" },
+        { "bn": "নালিতাবাড়ী উপজেলা", "en": "Nalitabari Upazila" },
+        { "bn": "শেরপুর সদর উপজেলা", "en": "Sherpur Sadar Upazila" },
+        { "bn": "শ্রীবরদী উপজেলা", "en": "Sreebardi Upazila" }
       ]
     }
   ]
