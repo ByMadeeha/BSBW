@@ -1312,10 +1312,29 @@
           ]
         },
         {
-          "bn": "লক্ষ্মীপুর জেলা",
-          "en": "Lakshmipur District",
-          "upazilas": [
-            { "bn": "কমলনগর উপজেলা", "en": "Kamalnagar Upazila" },
-            { "bn": "লক্ষ্মীপুর সদর উপজেলা", "en": "Lakshmipur Sadar Upazila" },
-            { "bn": "রায়পুর উপজেলা",": "লক্ষ্মীপুর সদর উপজেলা", "en": "Lakshmipur Sadar Upazila" },
-            { "bn": "রায়পুর উপজেলা",
+          {
+  "bn": "লক্ষ্মীপুর জেলা",
+  "en": "Lakshmipur District",
+  "upazilas": [
+    {
+      "bn": "কমলনগর উপজেলা",
+      "en": "Kamalnagar Upazila"
+    },
+    {
+      "bn": "লক্ষ্মীপুর সদর উপজেলা",
+      "en": "Lakshmipur Sadar Upazila"
+    },
+    {
+      "bn": "রায়পুর উপজেলা",
+      "en": "Raipur Upazila"
+    },
+    {
+      "bn": "রামগঞ্জ উপজেলা",
+      "en": "Ramganj Upazila"
+    },
+    {
+      "bn": "রামগতি উপজেলা",
+      "en": "Ramgati Upazila"
+    }
+  ]
+},
