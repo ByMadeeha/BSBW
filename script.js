@@ -8,13 +8,13 @@ const upazilaSelect = document.getElementById("upazila");
 const translations = {
     en: {
         title: "Bangladesh Social Benefit Watch",
-        explore: "Explore Bangladesh",
-        bibhag: "Bibhag",
-        jela: "Jela",
-        upazila: "Upazila",
-        selectBibhag: "Select a bibhag",
-        selectJela: "Select a jela",
-        selectUpazila: "Select an upazila",
+        explore: "Time up",
+        Division: "Division",
+        District: "District",
+        SubDistrict: "Sub District",
+        selectDivision: "Select a division",
+        selectJela: "Select a district",
+        selectUpazila: "Select an sub district",
         graphs: "Graphs",
         information: "Information",
         empty: "No information has been added yet."
